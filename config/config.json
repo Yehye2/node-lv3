@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "1111aaaa",
+    "password": "2222aaaa",
     "database": "express_sequelize_lnit",
     "host": "express-db.crrp24tq8a4l.ap-northeast-2.rds.amazonaws.com",
     "dialect": "mysql"
